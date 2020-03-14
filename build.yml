@@ -1,0 +1,4 @@
+image: os-cacerts
+org: dengleros
+arches:
+  - amd64
